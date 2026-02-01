@@ -8,7 +8,7 @@ I linked frontend and backend files using relative paths, used Apache and MySQL 
 - SQL CRUD operation
 - Security fundamentals
 
-# While making this project i got to know about how to built a secure user login and registration system usinng PHP and MySQL with password hashiong, session handling, and protected routes.
+# While making this project i got to know about how to built a secure user login and registration system using PHP and MySQL with password hashing, session handling, and protected routes.
 
 # TECH STACK
 - Frontend: HTML, CSS, JavaScript
